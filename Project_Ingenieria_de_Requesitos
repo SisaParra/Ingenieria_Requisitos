@@ -1,0 +1,165 @@
+# UNIVERSIDAD NACIONAL DE LOJA
+**INTEGRANTES:** -Brayan Collaguazo 
+             - Sisa Parra
+ 
+**Ingeniería de software**
+ 
+**Cliente:**  Usuarios que requieren realizar una reservación  y el personal administrativo del Hotel Sara Allpa.
+  
+**Necesidad u oportunidad:** Registran y resuelven las gestiones de reservación que se generan en este sistema hotelero mediante un proceso definido para cada proceso.
+ 
+**Nombre del producto:** Sistema de Reservación Hotelera Online.
+ 
+**Categoría del producto:** Aplicación web.
+ 
+## **Beneficios o razones convincentes**
+1. Notifica a las personas implicadas en la gestión de la reservación, sobre los procesos  que deben  realizar.
+2. Permite conocer sobre el estado de gestionamiento de una reservación en cualquier momento.
+3. Registran las solicitudes de gestiones de reservaciones directamente en el sistema desde la comodidad de sus casas mediante un sitio web. 
+4. Define la respectiva gestión de documentación resultante de la entrada y salida  de estancia de los clientes.
+ 
+ 
+## **Principal alternativa competitiva, sistema actual o proceso manual actual:**
+Los procesos para gestionamiento de las reservaciones tienen que realizarse de forma física en el Hotel Sara Allpa.
+No existe un flujo de actividades debidamente controlado para cada reserva.
+Aligerar la carga de trabajo al administrador del hotel automatizando dicho servicio. 
+Tanto  los clientes como los involucrados en realizar las reservas no conocen a ciencia cierta sobre el estado de gestionamiento de la misma. 
+ 
+## **Declaración de la diferencia de los productos primarios:**
+Permitirá:
+Que se pueda obtener información detallada  de la reserva.
+Que se identifique a la persona que está realizando el gestionamiento de la reserva.
+Que las solicitudes de gestionamiento de reservas y demás procesos se registren en el sistema a realizarse.
+Que se notifiquen a los involucrados(Gerente, clientes) del inicio, gestión y finalización del proceso de una reserva.
+Que se pueda ejecutar las reservas de forma automática de acuerdo al proceso que se solicite.
+ 
+## **Visionamiento**
+ 
+Para personal administrativo y usuarios del Hotel Sara Allpa, quienes registran y resuelven sus problemas frente a todos los procesos de  gestión de reservaciones  que se generan en el mismo de forma manual, de Reservación Hotelera Online, es una Aplicación web que registra las solicitudes de gestión de reservaciones  directamente en el sistema desde la comodidad de sus hogares vía web, el Sistema de automatización de trámites, es una Aplicación web ,que registra las solicitudes de trámites directamente en el sistema desde cualquier parte de la ciudad desde la comodidad de sus casas, define los procesos de gestionamiento de reservas de la estancia del cliente, tanto de su entrada como de su salida, notifica a las personas involucradas en el gestionamiento de la reserva  sobre las tareas que debe realizar y permite conocer sobre el estado de la reserva en cualquier instante.
+ 
+A diferencia del proceso actual que requiere que las gestiones de reservación tiene que realizarse de forma física acercándose al Hotel, no  existentes tienen que enviarse de forma física a la sede en Loja, no existe un flujo de actividades debidamente controlado para cada reservación y tanto los usuario a registrarse  como los involucrados en el trámite no conocen a ciencia cierta sobre el estado del mismo.
+ 
+Definición del problema
+El problema de la  atención de  gestión de reservación de hospedaje y otros servicios  que generan los clientes no tienen una adecuada atención, lo que genera una  excesiva demora al realizar una reservación debido a que no existe una debida gestión para la reservación de entrada- salida de la estancia de los clientes y a la falta de políticas para su ejecución.
+Además que la información ofrecida a los clientes no es actualizada ni oportuna ya que el medio de difusión que ofrece el hotel es muy bajo debido a que se la realiza mediante propaganda física y personal hacia los clientes a causa de esto el hotel no es muy reconocido a nivel local ni nacional.
+ 
+**Afecta a:**
+Usuarios, Gerente, Recepcionista, Gestión de Reservas,Gestión de Pedidos Y contratos con Clientes,  Evaluación de Servicio, Mantenimiento y Limpieza , Seguridad Alimentaria y de Almacenamiento, Facturación
+ 
+**Cuyo impacto es:**
+ 
+. Algunas gestiones causan congestión en el proceso de reservación, pues al no poderse resolver ágilmente, los usuarios deben regrear al  Hotel Sara Allpa varias veces entorpeciendo procesos de trabajo importantes (reservación de la estancia).
+. Se desperdicia demasiado tiempo, en tareas relacionadas a tratar de ubicar una reservación y conseguir su resultado.(ej:  Pérdida de documentación que se adjunta a cada reservación).
+. El usuario requiere mucha gestión para obtener el resultado de su reservación, causando malestar e insatisfacción.
+.  El promedio de tiempo para resolver una reservación es alto.
+ 
+**Una solución satisfactoria permitirá:**
+. Que la atención a cada gestión  se realice mediante un sistema de fácil uso, de tal forma que se  solución a todas las reservaciones que se realice.
+. Que las solicitudes de los trámites fluyan electrónicamente hacia las diferentes personas que deban revisarlo antes de su resolución.Que exista seguimiento adecuado de las reservaciones, estableciendo tiempos de respuesta a dicho problema.
+. Que se pueda conocer y visualizar el estado de la reservación.
+. Que las solicitudes de las registraciones de reservaciones sean registradas directamente en un sistema.
+. Que pueda disponer de estadísticas de reservación que permitan tomar decisiones para que los procesos sean optimizados.
+. Que la documentación relacionada a cada gestión de reserva sea adjuntada de forma digital de manera que pueda visualizarse directamente en el sistema.
+ 
+ 
+## **Glosario**
+ 
+| Término | Definición | Alias | Ejemplo |
+| Administrador | Encargado  del manejo del sistema  y puede ingresar a las distintas  ventanas  del sistema de reserva. | Administrador |
+| Autentificación | El usuario loguea para ingresar al sistema. | Autentificador |
+| Cliente | Es la persona que  ingresa al sistema para solicitar hacer una reserva en el hotel | Cliente |
+| Gerente | Es la persona que ingresa al sistema y recibe reportes sobre cobros o cantidad de huéspedes que tiene | Gerente |
+| Reserva | El cliente puede reservar una o varias habitaciones y el número de huéspedes en cada habitación y el tipo de las habitaciones , las fechas de estadía  consultar precios vía web o presencial llenando una forma. | Reserva |
+| Recepcionista | Dentro del sistema es la encargada de ver la llegada de cliente y acomodarlos según su reserva en el caso de que el cliente no  tenga una reserva es la encargado de realizar la reserva en el instante. | Recepcionista |
+ 
+
+## **Mitigación de riesgos**
+ 
+| Factor de riesgo | Probabilidad | Impacto | Estrategia de mitigación | Responsable |
+| Poco interés de  los recepcionistas del Hotel | Alto | Alto | Realizar reuniones informativas sobre el nuevo proceso automatizado para resolver la gestión de las reservaciones por parte de los usuarios. | ( El sponsor y Gerente del proyecto) |
+| Poco interés de los usuarios | Alto | Alto | Realizar talleres para indicar los beneficios al usar un sistema automatizado. | (Gerente del Proyecto) |
+| Falta de disponibilidad del gerente del Hotel Sara Allpa | Media | Alto | Llevar a cabo un taller de visionamiento con el gerente y crear alcance en el taller. | (Gerente del Proyecto) |
+| No involucramiento del contratista del servicio | Media | Alto | Llevar a cabo una visita (en el lugar de trabajo para hacer el seguimiento por lo menos  un día). Poder llevar a cabo una entrevistas cada cierto tiempo. | (Analista) |
+ 
+
+### **Entrevista**
+ 
+**1 .¿Conoce usted el hotel “Sara Allpa” ?**
+           SI( ) NO( ) 
+Si su respuesta fue “sí”, por favor continúe respondiendo las siguientes preguntas .Si su respuesta fue “no”, pase a la pregunta 7.    
+ 
+### **2. ¿Está de acuerdo con el servicio que presta el hotel “Sara Allpa”?**
+            SI( ) NO( ) 
+ 
+### **3. ¿Le gustaría que el hotel realice cambios a la hora de reservar una habitación para mejorar el servicio?**
+           SI( ) NO( ) 
+ 
+ 
+### **4. ¿Está de acuerdo con este nuevo servicio que se da actualmente, como son las reservaciones online?**
+           SI( ) NO( ) 
+ 
+### **5. ¿Cómo considera usted la tarifa de las habitaciones en el hotel  “Sara Allpa”?**
+  
+Muy alta
+Alta
+Justa
+Baja
+ 
+ ### **6. ¿Ha reservado ud una habitación en una página web en algún otro momento?**
+             SI( ) NO( ) 
+ 
+### **7.  En una escala del 1 al 6, porfavor enumere los aspectos que busca al hospedarse en un hotel, siendo 1 lo que más le interesa.**
+Tarifa
+Servicio
+Ubicación
+Instalaciones
+Alimentos 
+Otros (especifique cuál)_________________________________
+ 
+### **8. ¿Le gustaría recibir en su correo los últimos paquetes y promociones con detalle que tenemos en el hotel?**
+            SI( ) NO( ) 
+ 
+### **9. Por favor marque con una “X” a continuación los servicios complementarios que usted toma en cuenta para hospedarse en un hotel.**
+Servicio a cuartos
+Caja fuerte 
+Actividades recreativas 
+Lavandería
+Conexión a internet 
+Guarderia 
+Otros(especifique cual)
+ 
+### **10. De manera general,  ¿cómo considera usted las instalaciones del hotel “Sara Allpa”?**
+Excelentes 
+Buenas 
+Regulares 
+Malas
+ 
+### **11. Ocupación**
+Estudiante
+Empleado 
+Profesionista 
+Ama de Casa
+Negocio propio
+Otros(especifique cual)
+ 
+### **12. En qué ocasión usted viaja:**
+Solo
+Con mi familia 
+Con mi pareja
+Con mis amigos 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
